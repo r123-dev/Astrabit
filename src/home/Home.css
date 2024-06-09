@@ -1,0 +1,21 @@
+
+.inside{
+    top: 187px;
+left: 509px;
+width: 782px;
+height: 242px;
+/* UI Properties */
+opacity: 1;
+background-color: cyan;
+}
+.upper{
+    height:70px ;
+}
+.lower{top: 360px;
+    left: 525px;
+    width: 729px;
+    height: 169px;
+    /* UI Properties */
+    opacity: 1;
+    background-color: blue;
+}

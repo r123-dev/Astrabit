@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'ApercuPro';
+  src: url('/fonts/apercu_regular_pro.otf');
+}
+
+.nav-text{
+  font-size: 17px;
+  line-height: 21px;
+}
